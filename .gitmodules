@@ -1,0 +1,3 @@
+[submodule "chat-interface"]
+	path = chat-interface
+	url = https://github.com/RiyaMathew-11/chat-interface
